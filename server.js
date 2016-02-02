@@ -1,4 +1,4 @@
-var translate = require('../lib/translate'),
+var translate = require('lib/translate'),
 	express = require('express'),
 	cors = require('cors');
 
